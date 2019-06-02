@@ -7,4 +7,5 @@ Adagrad,
 RMSprop,
 Adam,
 AdaMax,
+Nadam and
 AMSGrad
